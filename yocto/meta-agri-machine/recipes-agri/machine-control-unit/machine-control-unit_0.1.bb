@@ -2,7 +2,7 @@ SUMMARY = "Core control application for agricultural machinery"
 DESCRIPTION = "Manages sensors, actuators, and network communication via MQTT."
 LICENSE = "MIT"
 # The path to the LICENSE file is now relative to the source directory (S)
-LIC_FILES_CHKSUM = "file://LICENSE;md5=b04d53957d471b392348b4334a2df854"
+LIC_FILES_CHKSUM = "file://LICENSE;md5=734a82b45bc7a0586a844b24d42cb9d4"
 
 DEPENDS += "mosquitto"
 
